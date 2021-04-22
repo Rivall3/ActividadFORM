@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActividadFORM", "ActividadFORM\ActividadFORM.csproj", "{3009D23B-006F-475A-92A2-D16D34447733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3009D23B-006F-475A-92A2-D16D34447733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3009D23B-006F-475A-92A2-D16D34447733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3009D23B-006F-475A-92A2-D16D34447733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3009D23B-006F-475A-92A2-D16D34447733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EFBFD6B-536E-428B-89E1-972E1EF70F75}
+	EndGlobalSection
+EndGlobal
